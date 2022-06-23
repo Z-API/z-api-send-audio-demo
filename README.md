@@ -2,7 +2,7 @@
 
 Este projeto foi construído para demonstrar como realizar o envio de áudio com o framework ReactJS.
 
-## Available Scripts
+## Scripts
 
 Execute o seguinte comando para rodar o projeto:
 
